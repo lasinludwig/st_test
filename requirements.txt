@@ -1,0 +1,15 @@
+deta==1.1.0
+geopy==2.2.0
+meteostat==1.6.5
+numpy==1.23.2
+openpyxl==3.0.10
+pandas==1.4.4
+plotly==5.10.0
+pygithub==1.55
+python-dotenv==0.21.0
+scipy==1.9.1
+streamlit-authenticator==0.2.1
+streamlit==1.12.2
+wetterdienst==0.43.0
+XlsxWriter==3.0.3
+streamlit-lottie==0.0.3
